@@ -25,6 +25,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratham7512&show_icons=true&locale=en&layout=compact" alt="pratham7512" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham7512&" alt="pratham7512" />
 </p>
