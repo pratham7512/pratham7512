@@ -13,12 +13,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pratham7512&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Github%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratham7512&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=Languages" height="150" alt="languages graph"  />
 </div>
-<br>
-###
+
 
 <img align="right" height="150" src="https://64.media.tumblr.com/d6bf8a8fa5a1f26fb07dd30beacb45dc/tumblr_pnuuztqgu71vz5npso1_540.gif"  />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="51" alt="javascript logo"  />
@@ -55,7 +54,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="51" alt="express logo"  />
 </div>
-<br>
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
