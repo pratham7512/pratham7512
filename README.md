@@ -1,11 +1,13 @@
-<h2 align="left">Hi 👋! My name is  Prathamesh and I'm a Backend Devloper..</h2>
+<h1 align="center">Hi 👋, I'm Prathamesh</h1>
+<h3 align="center">A passionate backend developer</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham7512&label=Profile%20views&color=0e75b6&style=flat" alt="pratham7512" /> </p>
 
-<div align="left">
-</div>
+- 🔭 I’m currently working on **troi.ai**
 
-###
+- 🌱 I’m currently learning **ReactJS and nextJS**
+
+- 💬 Ask me about **NodeJS, ExpressJS and C++**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratham7512&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Github%20Stats" height="150" alt="stats graph"  />
