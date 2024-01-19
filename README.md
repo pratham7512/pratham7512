@@ -1,4 +1,4 @@
-![](https://github.com/pratham7512/Mastermind, Pixel Jeff.gif)
+![](https://github.com/pratham7512/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
 <h3 align="center">A passionate backend developer</h3>
