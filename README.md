@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
-<h3 align="center">A passionate backend developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham7512&label=Profile%20views&color=0e75b6&style=flat" alt="pratham7512" /> </p>
-
+###
 - 🔭 I’m currently working on **troi.ai**
 
 - 🌱 I’m currently learning **ReactJS and nextJS**
 
 - 💬 Ask me about **NodeJS, ExpressJS and C++**
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratham7512&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Github%20Stats" height="150" alt="stats graph"  />
@@ -66,5 +65,5 @@
 <a href="https://www.hackerrank.com/prathameshdesai6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prathameshdesai6" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prathameshdesai679" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathameshdesai679" height="30" width="40" /></a>
 </p>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=pratham7512&label=Profile%20views&color=0e75b6&style=flat" alt="pratham7512" /> </p>
 
