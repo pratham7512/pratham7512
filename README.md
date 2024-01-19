@@ -1,4 +1,4 @@
-<img align="center" src="./banner.gif" />
+<img align="center" src="./banner1.gif" />
 
 <h2 align="left">Hi 👋! My name is  Prathamesh and I'm a Backend Devloper..</h2>
 
