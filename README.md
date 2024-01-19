@@ -1,4 +1,7 @@
-<img align="center" src="./banner1.gif" />
+<p align="center">
+  <img width="1200" height="400" src="./banner.gif">
+</p>
+
 
 <h2 align="left">Hi 👋! My name is  Prathamesh and I'm a Backend Devloper..</h2>
 
