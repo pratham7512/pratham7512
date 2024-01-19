@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathamesh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathamesh)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **troi.ai**
 
