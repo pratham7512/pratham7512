@@ -56,7 +56,7 @@
 </div>
 <br>
 <br>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=pratham7512&label=Profile%20views&color=0e75b6&style=flat" alt="pratham7512" /> </p>
+<img align="right" src="https://komarev.com/ghpvc/?username=pratham7512&label=Profile%20views&color=0e75b6&style=flat" alt="pratham7512" /> </p>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/@_curious09_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_curious09_" height="30" width="40" /></a>
