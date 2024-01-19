@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning **ReactJS and nextJS**
 
 - 💬 Ask me about **NodeJS, ExpressJS and C++**
-
+<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@_curious09_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_curious09_" height="30" width="40" /></a>
