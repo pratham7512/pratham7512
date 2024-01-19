@@ -1,8 +1,4 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”Mastermind, Pixel Jeff.gif" alt=”my banner”>
-
-</p>
+![](https://github.com/pratham7512/Mastermind, Pixel Jeff.gif)
 
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
 <h3 align="center">A passionate backend developer</h3>
