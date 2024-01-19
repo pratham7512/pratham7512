@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
-###
+
+
 - 🔭 I’m currently working on **troi.ai**
 
 - 🌱 I’m currently learning **ReactJS and nextJS**
 
 - 💬 Ask me about **NodeJS, ExpressJS and C++**
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratham7512&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Github%20Stats" height="150" alt="stats graph"  />
