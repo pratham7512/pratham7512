@@ -1,3 +1,5 @@
+![Banner](./Mastermind, Pixel Jeff.gif)
+
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
 <h3 align="center">A passionate backend developer</h3>
 
