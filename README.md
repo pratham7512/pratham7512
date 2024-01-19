@@ -56,8 +56,8 @@
 </div>
 <br>
 <br>
-<div align="left">
 <h3 align="left">Connect with me:</h3>
+<div align="left">
 <a href="https://twitter.com/@_curious09_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_curious09_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prathamesh-desai-342594229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh-desai-342594229" height="30" width="40" /></a>
 <a href="https://instagram.com/curious.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="curious.js" height="30" width="40" /></a>
