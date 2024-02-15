@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **troi.ai**
 
-- 🌱 I’m currently learning **ReactJS and nextJS**
+- 🌱 I’m currently learning **typescript and nextJS**
 
 - 💬 Ask me about **NodeJS, ExpressJS and C++**
 
